@@ -1,36 +1,36 @@
 <!-- Profile README for abdiqanimowlid208 -->
 
-<h1 align="center">Hi 👋, I'm Abdiqani Mowlid</h1>
-<h3 align="center">💻 Full-Stack Developer · 🎨 Graphic Designer</h3>
+<h1 align="center">Hi 👋, I'm Abdiqani Mowlid Ibrahim</h1>
+<h3 align="center">💻 Full-Stack Developer · 🗄️ Database Administrator</h3>
 
 <p align="center">
   📍 Hargeisa, Somaliland
 </p>
 
 <p align="center">
-  I build modern web applications, solve real-world problems with technology,
-  and create clean, user-friendly digital experiences.
+  I build modern web applications, manage data, and solve real-world problems
+  through reliable software and database solutions.
 </p>
 
 ---
 
 ### 🚀 About Me
 - 💻 Passionate about Full-Stack Development
+- 🗄️ Interested in Database Administration and data management
 - 🌱 Learning Software Engineering and exploring AI
-- 🎨 Interested in UI/UX and Graphic Design
 - 🛠️ Building practical projects and management systems
-- 🎯 Goal: Become an expert Full-Stack Software Engineer
+- 🎯 Goal: Become an expert Full-Stack Software Engineer and Database Administrator
 
 ### 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,html,css,react,nextjs,nodejs,django,postgres,supabase,git,github,vscode" alt="Skills and tools" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,ts,html,css,react,nextjs,nodejs,django,postgres,supabase,mysql,git,github,vscode" alt="Skills and tools" />
 </p>
 
 ### 📌 Featured Projects
 - 🛒 **E-commerce Applications** — web stores and shopping workflows
 - 🏥 **Hospital Management** — healthcare management application
 - 🎓 **Student Management** — student records and administration
-- 🧩 **Practice Projects** — learning and building with code
+- 🗄️ **Database Projects** — database design, queries, and data management
 
 ### 📊 GitHub Overview
 <p align="center">
@@ -44,7 +44,7 @@
 
 ---
 
-<p align="center"><b>“Code. Create. Innovate.”</b></p>
+<p align="center"><b>“Code. Manage Data. Innovate.”</b></p>
 <p align="center">
   <a href="https://github.com/abdiqanimowlid208">GitHub Profile</a>
 </p>
