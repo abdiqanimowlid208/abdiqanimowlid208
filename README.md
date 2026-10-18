@@ -1,7 +1,7 @@
 <!-- Profile README for abdiqanimowlid208 -->
 
 <h1 align="center">Hi 👋, I'm Abdiqani Mowlid Ibrahim</h1>
-<h3 align="center">💻 Full-Stack Developer · 🗄️ Database Administrator</h3>
+<h3 align="center">💻 Full-Stack Developer · 🗄️ Database Administrator · 🔐 Network Security · 🖥️ Server Management</h3>
 
 <p align="center">
   📍 Hargeisa, Somaliland
